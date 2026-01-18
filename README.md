@@ -8,4 +8,4 @@ I'm reading this book to learning more about data structure and develop my algor
 
 # Progress
 
-**Chapter 1**: Done exercise 1.7.9
+**Chapter 1**: Done exercise 1.7.11
