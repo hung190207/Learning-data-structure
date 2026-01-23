@@ -9,3 +9,5 @@ I'm reading this book to learning more about data structure and develop my algor
 # Progress
 
 **Chapter 1**: Done exercise 1.7.20
+
+**Chapter 2**: Done exercise 2.10.1
