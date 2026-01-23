@@ -11,4 +11,4 @@ I put the file name with rule: chapter_part_theExerciseNumber. So you can unders
 
 **Chapter 1**: Done exercise 1-20
 
-**Chapter 2**: Done exercise 2-24
+**Chapter 2**: Done exercise 2-52
